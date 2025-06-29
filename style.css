@@ -14,3 +14,13 @@ p {
   margin-left: 20px;
   font-family: Garamond, serif;
 }
+
+body {
+	background-image: url('images/black_background.jpg');
+	background-color: black;
+	background-repeat: no-repeat;
+	background-position: right top;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 0;
+}
