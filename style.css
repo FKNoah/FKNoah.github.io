@@ -5,9 +5,14 @@ body {
 h1 {
   color: grey;
   margin-left: 20px;
+  font-family: Brush Script MT, cursive;
+  text-shadow: 2px 2px 5px blue;
+  font-size: 50vw;
 }
 
 p {
   color: grey;
   margin-left: 20px;
+  font-family: Garamond, serif;
+  font-size: 20vw;
 }
